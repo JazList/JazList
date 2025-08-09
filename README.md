@@ -1,13 +1,33 @@
 # Привет, я Artem 👋
 
-- 🔭 Сейчас делаю: парсер составов кормов для животных (Python)
-- 🌱 Учусь: Git, GitHub Actions, PEP 8, парсинг и анализ данных
-- 🧰 Стек: Python, Pandas, Requests/HTTPX, Playwright/Selenium, SQL
-- 🤝 Открыт к сотрудничеству: pet-food data tools, open data scraping
-- 📫 Связь: tg://в процессе заполнения
+## 🚀 Обо мне
+- 🔭 Сейчас работаю над: **парсером составов кормов для животных (Python)**
+- 🌱 Учусь: **Git, GitHub Actions, PEP 8, парсинг и анализ данных**
+- 🧰 Мой стек: Python, Pandas, Requests, Playwright, SQL
+- 📫 Связь: позже
 
-## Избранные проекты
+---
 
+## 🛠️ Технологии и инструменты
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📂 Избранные проекты
+
+
+---
+
+## 📊 Статистика GitHub
+![Статистика](https://github-readme-stats.vercel.app/api?username=твое_имя&show_icons=true&theme=tokyonight)
+
+---
+
+_⭐️ Если вам понравились мои проекты — ставьте звёздочки!_
 
 ## Что ещё
 - Учусь программирования с помощью ИИ
