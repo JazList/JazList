@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, я Artem 👋
 
-<!--
-**JazList/JazList** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Сейчас делаю: парсер составов кормов для животных (Python)
+- 🌱 Учусь: Git, GitHub Actions, PEP 8, парсинг и анализ данных
+- 🧰 Стек: Python, Pandas, Requests/HTTPX, Playwright/Selenium, SQL
+- 🤝 Открыт к сотрудничеству: pet-food data tools, open data scraping
+- 📫 Связь: tg://в процессе заполнения
 
-Here are some ideas to get you started:
+## Избранные проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Что ещё
+- Учусь программирования с помощью ИИ
