@@ -1,25 +1,12 @@
-<!--
-  Профильный репозиторий должен называться JazList и быть публичным.
-  README.md должен находиться в корне репозитория.
--->
-
 <div align="center">
 
-  <h1>Привет, я Артем</h1>
+  <h1>Привет, я Артём</h1>
 
   <p><strong>Оптимизация процессов · автоматизация бизнеса · ИИ · сайты</strong></p>
 
   <p>
     Соединяю опыт управления операционными и складскими процессами<br>
     с разработкой понятных цифровых решений.
-  </p>
-
-  <p>
-    <a href="https://crond.ru">Проект CROND</a>
-    ·
-    <a href="https://crond.ru/#services">Услуги</a>
-    ·
-    <a href="mailto:hello@crond.ru">Написать мне</a>
   </p>
 
 </div>
@@ -46,28 +33,16 @@
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n">
-  <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=00B8D9" alt="REST API">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=openapiinitiative&logoColor=00B8D9" alt="REST API">
   <img src="https://img.shields.io/badge/Webhooks-0D1117?style=flat-square&logo=webhooks&logoColor=00B8D9" alt="Webhooks">
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
 </p>
 
-`Битрикс24` · `amoCRM` · `Мегаплан` · `YCLIENTS` · `Dikidi` · `Excel / VBA` · `Lean` · `5S`
+**Сервисы клиентов:** `Битрикс24` · `amoCRM` · `Мегаплан` · `YCLIENTS` · `Dikidi` · `Excel / VBA`
 
-## // Статистика GitHub
+**ИИ и аналитика:** `GigaChat` · `Claude API` · `Яндекс.Метрика`
 
-<div align="center">
-
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JazList&theme=github_dark" alt="Общая активность GitHub">
-
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JazList&theme=github_dark" alt="Языки по репозиториям">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JazList&theme=github_dark" alt="Статистика профиля GitHub">
-
-</div>
-
----
-
-<div align="center">
-  Есть процесс, который держится на ручном контроле?
-  <a href="https://crond.ru/contacts.html">Обсудим, что можно улучшить.</a>
-</div>
+**Подходы:** `Lean` · `5S` · `стандартизация операций`
