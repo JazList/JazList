@@ -2,24 +2,22 @@
 
   <h1>Привет, я Артем</h1>
 
-  <p><strong>Оптимизация процессов · автоматизация бизнеса · ИИ · разработка сайтов</strong></p>
+  <p><strong>Автоматизация процессов · цифровые решения · AI и API-интеграции</strong></p>
 
   <p>
     Соединяю опыт управления операционными процессами<br>
-    с разработкой понятных цифровых решений.
+    с разработкой понятных и практичных цифровых решений.
   </p>
 
 </div>
 
 ## // Обо мне
 
-Разбираю реальные процессы, нахожу потери и превращаю повторяющиеся операции в понятные цифровые решения. Развиваю **[CROND](https://crond.ru)** — проект по автоматизации малого и среднего бизнеса.
+Разбираю реальные процессы, нахожу потери и превращаю повторяющиеся операции в понятные цифровые решения.
 
-- **Операционная эффективность:** реинжиниринг процессов, Lean, DMAIC, непрерывные улучшения, стандартизация.
-- **Процессный анализ:** SIPOC, BPMN, функциональные требования, регламенты и стандарты, KPI и управленческая отчётность.
-- **Автоматизация:** RPA, ERP, Excel/VBA, API-интеграции, no-code и low-code платформы.
-- **ИИ, No-code/low-code, API**
-- **Веб-решения:** сайты, чат-боты, CRM и сервисы онлайн-записи.
+- **Процессы и эффективность:** реинжиниринг, Lean, DMAIC, SIPOC, BPMN, стандартизация и управленческая отчётность.
+- **Автоматизация и интеграции:** RPA, ERP, no-code/low-code, API и обмен данными между сервисами.
+- **Веб- и AI-решения:** сайты, чат-боты, CRM, сервисы онлайн-записи и мультимодельные AI-сценарии.
 
 ## // Как работаю
 
@@ -29,26 +27,46 @@
 
 ## // Технологии и инструменты
 
-**Использую**
+**Языки и веб**
 
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL">
+  <img src="https://img.shields.io/badge/PL%2FpgSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PL/pgSQL">
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n">
-  <img src="https://img.shields.io/badge/Make-0D1117?style=flat-square&logo=make&logoColor=6D00CC" alt="Make">
-  <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=openapiinitiative&logoColor=00B8D9" alt="REST API">
-  <img src="https://img.shields.io/badge/Webhooks-0D1117?style=flat-square&logo=webhooks&logoColor=00B8D9" alt="Webhooks">
+  <img src="https://img.shields.io/badge/Shell-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Shell">
+</p>
+
+**Данные и инфраструктура**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
 </p>
 
-**Осваиваю**
+**Автоматизация и интеграции**
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
-  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n">
+  <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=openapiinitiative&logoColor=00B8D9" alt="REST API">
+  <img src="https://img.shields.io/badge/Webhooks-0D1117?style=flat-square&logo=webhooks&logoColor=00B8D9" alt="Webhooks">
 </p>
 
+**AI-инструменты**
 
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Anthropic-0D1117?style=flat-square&logo=anthropic&logoColor=D4A27F" alt="Anthropic">
+  <img src="https://img.shields.io/badge/Мультимодельная_оркестрация-0D1117?style=flat-square&logoColor=FFFFFF" alt="Мультимодельная оркестрация">
+</p>
+
+## // Проекты
+
+### [CROND](https://crond.ru)
+
+Проект по автоматизации процессов малого и среднего бизнеса: от анализа задачи до внедрения понятного цифрового решения.
