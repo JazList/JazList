@@ -30,7 +30,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-tech-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-tech-light.svg">
-  <img src="./assets/profile-tech-light.svg" width="100%" alt="Профиль технологий: PL/pgSQL 38,7%, HTML 28,2%, JavaScript 12,1%, Python 10,1%, Shell 5,5%, CSS 4,9%; PostgreSQL, n8n, REST API, Docker, Linux, Git, OpenAI и Anthropic.">
+  <img src="./assets/profile-tech-light.svg" width="100%" alt="Диаграмма языков проектов и рабочего технологического стека JazList.">
 </picture>
 
 ## // Проекты
